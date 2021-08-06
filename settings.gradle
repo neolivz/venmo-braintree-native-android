@@ -1,0 +1,2 @@
+rootProject.name = "VenmoNative"
+include ':app'
